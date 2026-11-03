@@ -2,16 +2,29 @@
 
 ## 基础知识 (basic/)
 
+按优先级分类,建议按 p0 → p1 → p2 顺序学习
+
+### 🔴 P0 - 核心基础(必读)
+
 | 文档 | 内容 | 适用阶段 |
 |------|------|----------|
-| [basic.md](basic/basic.md) | 需求分析、产品设计、优先级与指标基础 | 全周期 |
-| [user-research.md](basic/user-research.md) | 用户研究、问题验证与研究结论沉淀 | 探索与定义 |
-| [delivery.md](basic/delivery.md) | 需求交付、跨团队协作、发布与复盘 | 规划到上线后 |
-| [ai-product.md](basic/ai-product.md) | AI 能力图谱、体验设计、评估、架构、反馈闭环、模型选型与迭代 | AI 功能全周期 |
-| [data_analysis.md](basic/data_analysis.md) | 数据分析能力清单与学习资源 | 全周期 |
-| [prd.md](basic/prd.md) | PRD 文档规范与模板 | 设计与交付 |
-| [terms.md](basic/terms.md) | 产品经理必备概念术语手册 | 入门与查阅 |
-| [outline.md](basic/outline.md) | 产品经理能力大纲 | 全周期 |
+| [p0-outline.md](basic/p0-outline.md) | 产品经理能力大纲(全局概览) | 入门先看 |
+| [p0-basic.md](basic/p0-basic.md) | 产品基本功(需求分析、产品设计、优先级、指标) | 全周期 |
+| [p0-user-research.md](basic/p0-user-research.md) | 用户研究方法与需求验证 | 探索与定义 |
+| [p0-delivery.md](basic/p0-delivery.md) | 产品交付流程与跨团队协作 | 规划到上线 |
+
+### 🟡 P1 - 进阶知识(推荐)
+
+| 文档 | 内容 | 适用阶段 |
+|------|------|----------|
+| [p1-ai-product.md](basic/p1-ai-product.md) | AI 平台产品全生命周期与 PM 职责 | AI PM 专项 |
+| [p1-data-analysis.md](basic/p1-data-analysis.md) | 数据分析能力体系与学习路径 | 全周期 |
+
+### 🟢 P2 - 参考工具(按需查阅)
+
+| 文档 | 内容 | 适用场景 |
+|------|------|----------|
+| [p2-terms.md](basic/p2-terms.md) | 产品经理必备术语手册 | 入门与查阅 |
 
 ---
 
@@ -46,6 +59,14 @@
 | [q2experience.md](QA/q2experience.md) | 个人经历深度问答(商业化场景实战) | 有经验的 PM |
 | [q2prd.md](QA/q2prd.md) | PRD写作与技术协作(文档能力、研发沟通、验收) | 产品基本功面试 |
 | [q2behavior.md](QA/q2behavior.md) | 行为面试与软技能(时间管理、压力应对、冲突处理) | 所有 PM 面试 |
+
+---
+
+## 项目文档 (Project/)
+
+| 文档 | 内容 |
+|------|------|
+| [agent-platform-prd.md](Project/agent-platform-prd.md) | Agent 任务自动化执行平台 PRD(V1.3) |
 
 ---
 
